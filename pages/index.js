@@ -37,16 +37,8 @@ const MockupWeatherApp = () => {
                         <p>Temperature: 8°C</p>
                         <p>Condition: Rainy</p>
                     </div>
-                    <div style={{ border: '1px solid #eaeaea', borderRadius: '10px', padding: '1rem', margin: '1rem', textAlign: 'center', boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)', flexBasis: '20%' }}>
-                        <h3>Thursday, December 5th</h3>
-                        <p>Temperature: 9°C</p>
-                        <p>Condition: Snow</p>
-                    </div>
-                    <div style={{ border: '1px solid #eaeaea', borderRadius: '10px', padding: '1rem', margin: '1rem', textAlign: 'center', boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)', flexBasis: '20%' }}>
-                        <h3>Friday, December 6th</h3>
-                        <p>Temperature: 7°C</p>
-                        <p>Condition: Windy</p>
-                    </div>
+                    
+                    
                 </div>
             </main>
         </div>
